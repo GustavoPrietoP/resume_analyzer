@@ -52,4 +52,4 @@ Open http://localhost:8501 and start analyzing!
 
 ## License
 
-MIT © [Gustavo Prieto] – feel free to fork and star :)
+MIT © Gustavo Prieto – feel free to fork and star :)
